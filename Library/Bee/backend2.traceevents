@@ -1,0 +1,250 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1714975267641306, "dur":30726, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714975267672039, "dur":69, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714975267672137, "dur":466, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714975267672695, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1714975267672821, "dur":109, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/level2" }}
+,{ "pid":12345, "tid":0, "ts":1714975267672989, "dur":121, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/resources.assets" }}
+,{ "pid":12345, "tid":0, "ts":1714975267673476, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":0, "ts":1714975267673721, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1714975267674110, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1714975267674260, "dur":97, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1714975267674719, "dur":107, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1714975267675897, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":0, "ts":1714975267676885, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1714975267677234, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1714975267672626, "dur":4805, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714975267677433, "dur":247114, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714975267924548, "dur":224, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714975267924772, "dur":78, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714975267925100, "dur":3025, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1714975267672974, "dur":4475, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714975267677453, "dur":5301, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714975267688662, "dur":640, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1714975267689307, "dur":85, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1714975267689656, "dur":147, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HotCr\\Documents\\Unity Projects\\425 Version 6\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714975267689805, "dur":190, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HotCr\\Documents\\Unity Projects\\425 Version 6\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714975267689996, "dur":314, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HotCr\\Documents\\Unity Projects\\425 Version 6\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714975267690311, "dur":94, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HotCr\\Documents\\Unity Projects\\425 Version 6\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714975267690406, "dur":425, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HotCr\\Documents\\Unity Projects\\425 Version 6\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714975267690833, "dur":646, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HotCr\\Documents\\Unity Projects\\425 Version 6\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714975267691490, "dur":129, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HotCr\\Documents\\Unity Projects\\425 Version 6\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714975267691621, "dur":460, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\HotCr\\Documents\\Unity Projects\\425 Version 6\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1714975267692155, "dur":105, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player00a9579c-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1714975267689305, "dur":3099, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1714975267692699, "dur":80, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1714975267693237, "dur":223751, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1714975267922887, "dur":150, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1714975267922886, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1714975267923070, "dur":1418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1714975267673180, "dur":4328, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714975267677512, "dur":864, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714975267678376, "dur":4391, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714975267682787, "dur":240, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":2, "ts":1714975267682771, "dur":257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1714975267698435, "dur":1435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1714975267699933, "dur":5520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714975267705524, "dur":4368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714975267709966, "dur":4913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714975267714947, "dur":4254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714975267719269, "dur":5005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714975267724396, "dur":6312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714975267737023, "dur":68, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1714975267730793, "dur":6334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714975267737214, "dur":4848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1714975267742136, "dur":3749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":2, "ts":1714975267745969, "dur":11265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":2, "ts":1714975267757284, "dur":167262, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714975267673315, "dur":4259, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714975267677579, "dur":806, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714975267678386, "dur":4418, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1714975267682808, "dur":231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1714975267699308, "dur":1305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1714975267700685, "dur":3390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714975267704152, "dur":4606, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714975267708849, "dur":4379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714975267713319, "dur":4294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714975267717687, "dur":4489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714975267722253, "dur":7348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714975267729682, "dur":6698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714975267736447, "dur":5514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714975267742063, "dur":22767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1714975267764883, "dur":159666, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1714975267673552, "dur":4084, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1714975267677637, "dur":5145, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1714975267682794, "dur":260, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1714975267682783, "dur":272, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1714975267699499, "dur":3355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1714975267702924, "dur":3306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714975267706301, "dur":5550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714975267711926, "dur":4572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714975267716564, "dur":4621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714975267721281, "dur":5627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714975267727048, "dur":4865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714975267731989, "dur":4433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714975267736494, "dur":5154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714975267741710, "dur":8446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1714975267750227, "dur":4611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1714975267754931, "dur":2452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/level2" }}
+,{ "pid":12345, "tid":4, "ts":1714975267757445, "dur":167097, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714975267673011, "dur":4447, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714975267677463, "dur":827, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714975267678291, "dur":4473, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714975267682768, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":5, "ts":1714975267684314, "dur":2344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":5, "ts":1714975267687049, "dur":1193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1714975267688382, "dur":1431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1714975267690132, "dur":1251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1714975267691481, "dur":1581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1714975267693209, "dur":2442, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6.exe" }}
+,{ "pid":12345, "tid":5, "ts":1714975267696236, "dur":6672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714975267708490, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1714975267702973, "dur":5580, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714975267708621, "dur":3119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714975267711815, "dur":4026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714975267715923, "dur":4442, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714975267720432, "dur":6256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714975267726956, "dur":5584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714975267732626, "dur":4592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714975267737301, "dur":4338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714975267741703, "dur":9108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1714975267750874, "dur":4829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1714975267755762, "dur":3044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/level0.resS" }}
+,{ "pid":12345, "tid":5, "ts":1714975267758852, "dur":165736, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714975267673114, "dur":4359, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714975267677476, "dur":845, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714975267678322, "dur":4439, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1714975267682803, "dur":199, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1714975267682768, "dur":234, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HotCr/Downloads/425 final exec/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1714975267697464, "dur":2276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1714975267699829, "dur":4896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714975267704791, "dur":4332, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714975267709240, "dur":5467, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714975267714779, "dur":3718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714975267718574, "dur":5533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714975267724195, "dur":4393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714975267728660, "dur":5330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714975267734082, "dur":4107, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714975267738283, "dur":3858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1714975267742239, "dur":8436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":6, "ts":1714975267750961, "dur":4987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":6, "ts":1714975267756080, "dur":5430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1714975267761564, "dur":162995, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1714975267673232, "dur":4296, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1714975267677534, "dur":856, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1714975267678390, "dur":4395, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1714975267682790, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1714975267696266, "dur":1559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1714975267697895, "dur":4952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1714975267702959, "dur":3469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1714975267706497, "dur":4119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1714975267710701, "dur":4641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1714975267715411, "dur":4180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1714975267719658, "dur":5240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1714975267724975, "dur":4354, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1714975267729414, "dur":5883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1714975267735370, "dur":3649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1714975267739081, "dur":4765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1714975267743941, "dur":9248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1714975267753297, "dur":2907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/level3" }}
+,{ "pid":12345, "tid":7, "ts":1714975267756272, "dur":3740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1714975267760061, "dur":164507, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1714975267673154, "dur":4336, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1714975267677494, "dur":702, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1714975267678197, "dur":4565, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1714975267682783, "dur":141, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":8, "ts":1714975267682768, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":8, "ts":1714975267689515, "dur":1017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":8, "ts":1714975267690619, "dur":1218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1714975267692149, "dur":1323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1714975267694973, "dur":2319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1714975267697428, "dur":5088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1714975267705732, "dur":144, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1714975267702587, "dur":3302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1714975267705980, "dur":5364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":8, "ts":1714975267711413, "dur":4768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1714975267716259, "dur":4682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1714975267721035, "dur":6250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1714975267727368, "dur":4836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1714975267732271, "dur":5259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1714975267737602, "dur":5072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1714975267742740, "dur":7174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":8, "ts":1714975267749994, "dur":6180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1714975267756263, "dur":3615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1714975267759928, "dur":164650, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1714975267673306, "dur":4245, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1714975267677556, "dur":810, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1714975267678367, "dur":4392, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1714975267682774, "dur":482, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1714975267700022, "dur":2776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/app.info" }}
+,{ "pid":12345, "tid":9, "ts":1714975267702817, "dur":5063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":9, "ts":1714975267707955, "dur":5505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1714975267713525, "dur":3835, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1714975267717454, "dur":7087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1714975267724629, "dur":4591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1714975267729335, "dur":5551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1714975267734983, "dur":6535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1714975267741606, "dur":9773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1714975267751455, "dur":3955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/resources.assets" }}
+,{ "pid":12345, "tid":9, "ts":1714975267755471, "dur":2873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/level1" }}
+,{ "pid":12345, "tid":9, "ts":1714975267758395, "dur":166226, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1714975267673413, "dur":4180, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1714975267677598, "dur":832, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1714975267678431, "dur":4350, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1714975267682782, "dur":199, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1714975267696565, "dur":1320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1714975267697952, "dur":5172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":10, "ts":1714975267703222, "dur":5206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1714975267708536, "dur":6226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1714975267714839, "dur":3396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1714975267718341, "dur":6219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1714975267724796, "dur":4755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1714975267729634, "dur":5686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1714975267735417, "dur":3481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1714975267738993, "dur":4651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1714975267743725, "dur":6966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":10, "ts":1714975267750759, "dur":4160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":10, "ts":1714975267755005, "dur":2533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/level1.resS" }}
+,{ "pid":12345, "tid":10, "ts":1714975267757580, "dur":167072, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1714975267673484, "dur":4128, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1714975267677612, "dur":5154, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1714975267684275, "dur":2420, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":11, "ts":1714975267687087, "dur":1296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1714975267688699, "dur":1331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1714975267690174, "dur":1378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1714975267691872, "dur":1164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1714975267693244, "dur":5412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":11, "ts":1714975267698732, "dur":4245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1714975267703036, "dur":5495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":11, "ts":1714975267708606, "dur":5891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1714975267714567, "dur":3644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1714975267718284, "dur":5145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1714975267723513, "dur":4597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1714975267728184, "dur":5021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1714975267733272, "dur":4262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1714975267737607, "dur":4548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1714975267742244, "dur":3207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1714975267745569, "dur":5947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":11, "ts":1714975267751580, "dur":4321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/level3.resS" }}
+,{ "pid":12345, "tid":11, "ts":1714975267755963, "dur":2819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/level0" }}
+,{ "pid":12345, "tid":11, "ts":1714975267758830, "dur":165772, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1714975267673527, "dur":4104, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1714975267677632, "dur":5178, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1714975267682817, "dur":200, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":12, "ts":1714975267682810, "dur":208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1714975267697958, "dur":2623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1714975267700658, "dur":4410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1714975267705134, "dur":5542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":12, "ts":1714975267710755, "dur":4775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1714975267715598, "dur":4569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1714975267720248, "dur":5885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1714975267726207, "dur":4297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1714975267730577, "dur":5114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1714975267735762, "dur":4291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1714975267740139, "dur":9782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1714975267753871, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1714975267750010, "dur":4815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":12, "ts":1714975267754926, "dur":3476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/HotCr/Downloads/425 final exec/425 Version 6_Data/level2.resS" }}
+,{ "pid":12345, "tid":12, "ts":1714975267758449, "dur":166159, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1714975267933325, "dur":1779, "ph":"X", "name": "ProfilerWriteOutput" }
+,
