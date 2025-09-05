@@ -32,6 +32,9 @@ public class RoomGenerator : MonoBehaviour
             Application.Quit();
         }
 
+        // Random seed instead of setting in scene
+        seed = UnityEngine.Random.Range(0, int.MaxValue);
+
         random = new System.Random(seed);
         map = new Room[numRooms, numRooms];
         int secondRoomIndex = (int)(random.NextDouble() * 4);
