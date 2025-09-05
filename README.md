@@ -1,5 +1,6 @@
 A first-person shooter roguelike game with procedurally generated randomized maps, different weapons, enemies, and items.
 
+Try it [here](https://chandlerwang70.itch.io/wizard-game)!
 
 
 <img width="811" height="463" alt="image" src="https://github.com/user-attachments/assets/e63d73ff-0213-43dd-a0e7-19d6e576781c" />
